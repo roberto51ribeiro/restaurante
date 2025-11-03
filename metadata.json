@@ -1,0 +1,7 @@
+{
+  "name": "Gerência 102.132.32",
+  "description": "Uma aplicação web para gerenciamento completo de restaurantes, otimizando tarefas, horários e relatórios para manter a equipe alinhada com eficiência e profissionalismo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
